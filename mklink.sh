@@ -8,8 +8,8 @@
 #ls -ialh file.txt
 #find . -inum 1234
 
-SRC="/share/Download/tmp/src"
-DST="/share/Download/tmp/dst"
+SRC="/mnt/user/xjj/"
+DST="/mnt/user/Medias/links/123/"
 
 FILEGIG=1000000c
 
